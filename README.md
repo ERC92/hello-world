@@ -1,2 +1,4 @@
 # hello-world
-Hello world first git repository
+First git repository:
+
+Hello world! What a sunny day it is!!
